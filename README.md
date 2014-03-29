@@ -1,14 +1,14 @@
 Leap Motion for Google Maps
 ==
 
-Use a Leap Motion to navigate through Google Maps by grabbing and pulling.
+Use a Leap Motion, originally started by jaxzin.github.io/leap-map/, to drive in the Panorama Street View through Google Map API.
 
 
 Usage
 ------
-* Grab the map with one hand to pan around.
-* Grab the map with two hands to zoom.
+* Turn right or left with one or two hand.
+* Stop or speed up using Galileo and a transducer.
 
 Example
 ------
-[Live demo](http://jaxzin.github.io/leap-map/)
+[Live demo](http://hup128.github.com/leap-map/)
