@@ -11,4 +11,4 @@ Usage
 
 Example
 ------
-[Live demo](http://hup128.github.com/leap-map/)
+[Live demo](http://jaxzin.github.io/leap-map/)
